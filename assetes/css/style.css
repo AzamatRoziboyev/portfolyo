@@ -429,7 +429,6 @@ a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible{
   flex-direction:column;
   gap:14px;
 }
-
 .info-card i{ font-size:1.3rem; color:var(--accent); }
 .info-card h3{ font-size:1rem; margin-bottom:4px; }
 .info-card p{ color:var(--text-muted); font-size:.85rem; }
